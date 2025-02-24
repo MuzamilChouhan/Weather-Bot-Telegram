@@ -66,9 +66,6 @@ Give a ⭐ if you like this project!
 
 ---
 
-### 📜 License
-This project is licensed under the **MIT License**. Feel free to use and modify it.
-
 ---
 
 > *Happy Coding! 🚀*
